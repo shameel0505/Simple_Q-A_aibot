@@ -64,10 +64,11 @@ First Attempt: OpenAI API
 
 ---
 
-## 👀 Example Conversation
+##  Example Conversation
 ```
 Bot: Hello, how can I help you?
 You: What is photosynthesis?
 Bot: Photosynthesis is how plants make food using sunlight, water, and carbon dioxide. 
      Imagine a plant as a little chef mixing ingredients to make sugar!
 ```
+
